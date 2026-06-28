@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ameena+Tabassum;Data+Analyst+%26+AI+%2F+DS+Final+Year+Student;ML+%7C+Power+BI+%7C+Python+%7C+SQL;Turning+Raw+Data+into+Actionable+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ameena+Tabassum;AI+%26+Data+Science+Graduate;ML+%7C+Power+BI+%7C+Python+%7C+SQL;Turning+Raw+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ameenatabassum123&label=Profile+Views&color=0D6EFD&style=flat-square" alt="Profile Views" />
@@ -17,7 +17,7 @@
 
 > *"Transforming complex, multi-source data into clear, actionable insights — one dashboard at a time."*
 
-- 🎓 **Final Year B.Tech** in **Artificial Intelligence & Data Science** @ PRIW, Khammam — **CGPA: 7.67 | Top 5% of class**
+- 🎓 **B.Tech Graduate** in **Artificial Intelligence & Data Science** @ PRIW, Khammam — **CGPA: 7.67 | Top 5% of class**
 - 📊 Experienced in **EDA, Data Cleaning, ML Pipelines**, and **Interactive Dashboard Development**
 - 🤖 Skilled in deploying real-world apps using **Streamlit**, and building models with **scikit-learn**
 - 💡 Passionate about **Power BI**, **Tableau**, and **data-driven decision-making**
