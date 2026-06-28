@@ -34,7 +34,7 @@
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,c++,javascript,css,sqllite,mysql&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,c++,javascript,css,mysql&theme=dark" height="50"/>
 </p>
 
 ### 📊 Data Analytics & Visualization
@@ -69,7 +69,7 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="50"/>u
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="50"/>
 </p>
 
 ### ⚙️ Tools & Platforms
