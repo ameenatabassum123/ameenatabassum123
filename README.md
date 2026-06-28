@@ -1,4 +1,4 @@
-
+</div>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ameena+Tabassum;AI+%26+Data+Science+Graduate;ML+%7C+Power+BI+%7C+Python+%7C+SQL;Turning+Raw+Data+into+Actionable+Insights)](https://git.io/typing-svg)
@@ -26,6 +26,7 @@
 - 💡 Keen interest in **predictive analytics**, **AI applications**, and **business intelligence**
 - 💡 Passionate about **Power BI**, **Tableau**, and **data-driven decision-making**
 - 📍 Khammam, India &nbsp;|&nbsp; 📞 +91 94927 81292
+
 ---
 
 ## 🛠️ Tech Stack
@@ -33,31 +34,39 @@
 **👨‍💻 Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 **📊 Data Analytics & Visualization**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 **🤖 Machine Learning & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**📚 Python Libraries**
+**📚 Tools & Deployment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,streamlit" />
+  <img src="https://skillicons.dev/icons?i=streamlit,jupyter,git,github,vscode" />
 </p>
 
-**🗄️ Databases & Tools**
+**🗄️ Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,jupyter,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ---
