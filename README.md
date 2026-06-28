@@ -27,17 +27,18 @@
 - 📍 Khammam, India &nbsp;|&nbsp; 📬 Connect with me: **ameenatabassum1664@gmail.com**
 
 ---
-
 ## 🛠️ Tech Stack
 
-**👨‍💻 Programming Languages**
+### 👨‍💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**📊 Data Analytics & Visualization**
+---
+
+### 📊 Data Analytics & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -46,7 +47,9 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-**🤖 Machine Learning**
+---
+
+### 🤖 Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn" />
@@ -54,6 +57,52 @@
   <img src="https://img.shields.io/badge/Logistic_Regression-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Classification-0D6EFD?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Model_Evaluation-20C997?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 📚 Libraries & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-0D6EFD?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
+</p>
+
+---
+
+### 🧠 Core Fundamentals
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D6EFD?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-20C997?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
 **📚 Libraries**
