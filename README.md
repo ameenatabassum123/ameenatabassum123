@@ -34,7 +34,7 @@
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,c#,javascript,css,mysql&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,css,mysql&theme=dark" height="50"/>
 </p>
 
 ### 📊 Data Analytics & Visualization
