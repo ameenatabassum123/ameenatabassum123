@@ -1,3 +1,4 @@
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ameena+Tabassum;AI+%26+Data+Science+Graduate;ML+%7C+Power+BI+%7C+Python+%7C+SQL;Turning+Raw+Data+into+Actionable+Insights)](https://git.io/typing-svg)
@@ -25,40 +26,39 @@
 - 💡 Keen interest in **predictive analytics**, **AI applications**, and **business intelligence**
 - 💡 Passionate about **Power BI**, **Tableau**, and **data-driven decision-making**
 - 📍 Khammam, India &nbsp;|&nbsp; 📞 +91 94927 81292
-
 ---
 
 ## 🛠️ Tech Stack
 
 **👨‍💻 Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
 
 **📊 Data Analytics & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
+</p>
 
 **🤖 Machine Learning & Libraries**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
+</p>
+
+**📚 Python Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,streamlit" />
+</p>
 
 **🗄️ Databases & Tools**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,jupyter,git,github,vscode" />
+</p>
 
 ---
 
