@@ -74,7 +74,7 @@
 
 ### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,cursor,apify,tomcat,streamlit&theme=dark"height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,streamlit&theme=dark"height="50"/>
 </p>
 
 ### 🧠 Core Fundamentals
