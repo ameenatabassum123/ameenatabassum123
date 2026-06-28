@@ -17,9 +17,12 @@
 
 > *"Transforming complex, multi-source data into clear, actionable insights — one dashboard at a time."*
 
-- 🎓 **B.Tech Graduate** in **Artificial Intelligence & Data Science** @ PRIW, Khammam — **CGPA: 7.67 | Top 5% of class**
+- 🎓 **B.Tech Graduate** in **Artificial Intelligence & Data Science** @ PRIW, Khammam — **CGPA: 8 | Top 5% of class**
+- 📊 Deeply passionate about **Data Analytics**, **Machine Learning**, and **Dashboard Development**
 - 📊 Experienced in **EDA, Data Cleaning, ML Pipelines**, and **Interactive Dashboard Development**
 - 🤖 Skilled in deploying real-world apps using **Streamlit**, and building models with **scikit-learn**
+- 🌱 Continuously advancing skills in **Advanced SQL**, **Power BI**, **Deep Learning**, and **Data Visualization**
+- 💡 Keen interest in **predictive analytics**, **AI applications**, and **business intelligence**
 - 💡 Passionate about **Power BI**, **Tableau**, and **data-driven decision-making**
 - 📍 Khammam, India &nbsp;|&nbsp; 📞 +91 94927 81292
 
